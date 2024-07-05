@@ -1,4 +1,4 @@
-// 1.20.1	2024-07-05T19:51:40.527249886	Registries
+// 1.20.1	2024-07-05T21:19:35.150830537	Registries
 65000e7668fbcb0d40a5d75bc9b908f4e3b4cf59 data/sapphireitems/forge/biome_modifier/add_sapphire_ore.json
-f4495c9dfbc1c7fed37cd40708f9f45d549a5aa2 data/sapphireitems/worldgen/configured_feature/sapphire_ore.json
-68134f3d72024ba6ceed73f111a32bf6d789536d data/sapphireitems/worldgen/placed_feature/sapphire_ore_placed.json
+ba0ef36f163f4508536f689af13732c4ae3b98d6 data/sapphireitems/worldgen/configured_feature/sapphire_ore.json
+6edd3c1c21a096264a17c72749a70c7fbce42af1 data/sapphireitems/worldgen/placed_feature/sapphire_ore_placed.json

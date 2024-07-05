@@ -1,7 +1,6 @@
 package net.kjani.sapphireitems.block;
 
 import net.kjani.sapphireitems.SapphireItems;
-import net.kjani.sapphireitems.SapphireItems;
 import net.kjani.sapphireitems.item.ModItems;
 import net.minecraft.util.valueproviders.UniformInt;
 import net.minecraft.world.item.BlockItem;

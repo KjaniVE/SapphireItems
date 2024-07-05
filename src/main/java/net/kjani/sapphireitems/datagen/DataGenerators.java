@@ -8,9 +8,10 @@ import net.minecraftforge.common.data.ExistingFileHelper;
 import net.minecraftforge.data.event.GatherDataEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
-
 import java.util.concurrent.CompletableFuture;
 
+// suppress unused warning (even tough it is used)
+@SuppressWarnings("unused")
 @Mod.EventBusSubscriber(modid = SapphireItems.MOD_ID, bus = Mod.EventBusSubscriber.Bus.MOD)
 public class DataGenerators {
     @SubscribeEvent

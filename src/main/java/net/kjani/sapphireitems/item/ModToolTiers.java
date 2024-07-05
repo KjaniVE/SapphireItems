@@ -13,6 +13,7 @@ import java.util.List;
 
 public class ModToolTiers {
 
+    // New sapphire tier
     public static final Tier SAPPHIRE = TierSortingRegistry.registerTier(
             new ForgeTier(7, 5000, 20.0F, 7.0F, 25,
                     ModTags.Blocks.NEEDS_SAPPHIRE_TOOL, () -> Ingredient.of(ModItems.SAPPHIRE.get())),

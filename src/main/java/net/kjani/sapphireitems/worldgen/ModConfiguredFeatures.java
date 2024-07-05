@@ -27,7 +27,7 @@ public class ModConfiguredFeatures {
                         ModBlocks.SAPPHIRE_ORE.get().defaultBlockState()),
                 OreConfiguration.target(deepslateReplaceables, ModBlocks.DEEPSLATE_SAPPHIRE_ORE.get().defaultBlockState()));
 
-        register(context, OVERWORLD_SAPPHIRE_ORE_KEY, Feature.ORE, new OreConfiguration(overworldSapphireOres, 9));
+        register(context, OVERWORLD_SAPPHIRE_ORE_KEY, Feature.ORE, new OreConfiguration(overworldSapphireOres, 3));
 
     }
 

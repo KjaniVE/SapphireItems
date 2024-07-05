@@ -12,6 +12,7 @@ import net.minecraft.world.level.Level;
 
 import java.util.List;
 
+// Armor effects when full set is worn
 public class ModArmorItem extends ArmorItem {
     private static final ImmutableListMultimap<ArmorMaterial, MobEffectInstance> MATERIAL_TO_EFFECT_MAP =
             new ImmutableListMultimap.Builder<ArmorMaterial, MobEffectInstance>()

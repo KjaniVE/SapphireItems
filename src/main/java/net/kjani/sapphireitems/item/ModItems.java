@@ -1,7 +1,6 @@
 package net.kjani.sapphireitems.item;
 
 import net.kjani.sapphireitems.SapphireItems;
-import net.kjani.sapphireitems.item.custom.FuelItem;
 import net.kjani.sapphireitems.item.custom.ModArmorItem;
 import net.minecraft.world.item.*;
 import net.minecraftforge.eventbus.api.IEventBus;

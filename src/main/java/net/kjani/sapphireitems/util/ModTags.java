@@ -8,6 +8,8 @@ import net.minecraft.tags.TagKey;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
 
+// suppresses unused warnings (Item is there for when I add new items)
+ @SuppressWarnings("unused")
 public class ModTags {
     public static class Blocks {
         public static final TagKey<Block> METAL_DETECTOR_VALUABLES = tag("metal_detector_valuables");
