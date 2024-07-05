@@ -21,15 +21,15 @@ public class ModItems {
 
     //Tools
     public static final RegistryObject<Item> SAPPHIRE_SWORD = ITEMS.register("sapphire_sword",
-            () -> new SwordItem(ModToolTiers.SAPPHIRE, 8, 8, new Item.Properties().fireResistant().rarity(ModRarity.LEGENDARY)));
+            () -> new SwordItem(ModToolTiers.SAPPHIRE, 7, 1, new Item.Properties().fireResistant().rarity(ModRarity.LEGENDARY)));
     public static final RegistryObject<Item> SAPPHIRE_PICKAXE = ITEMS.register("sapphire_pickaxe",
-            () -> new PickaxeItem(ModToolTiers.SAPPHIRE, 6, 6, new Item.Properties().fireResistant().rarity(ModRarity.LEGENDARY)));
+            () -> new PickaxeItem(ModToolTiers.SAPPHIRE, -3, 2, new Item.Properties().fireResistant().rarity(ModRarity.LEGENDARY)));
     public static final RegistryObject<Item> SAPPHIRE_AXE = ITEMS.register("sapphire_axe",
-            () -> new AxeItem(ModToolTiers.SAPPHIRE, 9, 6, new Item.Properties().fireResistant().rarity(ModRarity.LEGENDARY)));
+            () -> new AxeItem(ModToolTiers.SAPPHIRE, 9, 2, new Item.Properties().fireResistant().rarity(ModRarity.LEGENDARY)));
     public static final RegistryObject<Item> SAPPHIRE_SHOVEL = ITEMS.register("sapphire_shovel",
-            () -> new ShovelItem(ModToolTiers.SAPPHIRE, 5, 6, new Item.Properties().fireResistant().rarity(ModRarity.LEGENDARY)));
+            () -> new ShovelItem(ModToolTiers.SAPPHIRE, 0, 2, new Item.Properties().fireResistant().rarity(ModRarity.LEGENDARY)));
     public static final RegistryObject<Item> SAPPHIRE_HOE = ITEMS.register("sapphire_hoe",
-            () -> new HoeItem(ModToolTiers.SAPPHIRE, 3, 6, new Item.Properties().fireResistant().rarity(ModRarity.LEGENDARY)));
+            () -> new HoeItem(ModToolTiers.SAPPHIRE, -15, 0, new Item.Properties().fireResistant().rarity(ModRarity.LEGENDARY)));
 
 
     //Armor

@@ -15,10 +15,10 @@ import java.util.List;
 public class ModArmorItem extends ArmorItem {
     private static final ImmutableListMultimap<ArmorMaterial, MobEffectInstance> MATERIAL_TO_EFFECT_MAP =
             new ImmutableListMultimap.Builder<ArmorMaterial, MobEffectInstance>()
-                    .put(ModArmorMaterials.SAPPHIRE, new MobEffectInstance(MobEffects.NIGHT_VISION, Integer.MAX_VALUE, 1, false, false, true))
-                    .put(ModArmorMaterials.SAPPHIRE, new MobEffectInstance(MobEffects.REGENERATION, Integer.MAX_VALUE, 4, false, false, true))
-                    .put(ModArmorMaterials.SAPPHIRE, new MobEffectInstance(MobEffects.FIRE_RESISTANCE, Integer.MAX_VALUE, 4, false, false, true))
-                    .put(ModArmorMaterials.SAPPHIRE, new MobEffectInstance(MobEffects.ABSORPTION, Integer.MAX_VALUE, 4, false, false, true))
+                    .put(ModArmorMaterials.SAPPHIRE, new MobEffectInstance(MobEffects.NIGHT_VISION, Integer.MAX_VALUE, 1, false, false, false))
+                    .put(ModArmorMaterials.SAPPHIRE, new MobEffectInstance(MobEffects.REGENERATION, Integer.MAX_VALUE, 4, false, false, false))
+                    .put(ModArmorMaterials.SAPPHIRE, new MobEffectInstance(MobEffects.FIRE_RESISTANCE, Integer.MAX_VALUE, 4, false, false, false))
+                    .put(ModArmorMaterials.SAPPHIRE, new MobEffectInstance(MobEffects.ABSORPTION, Integer.MAX_VALUE, 4, false, false, false))
                     .build();
 
     public ModArmorItem(ArmorMaterial pMaterial, Type pType, Properties pProperties) {

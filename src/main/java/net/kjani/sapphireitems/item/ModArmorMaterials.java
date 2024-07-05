@@ -5,13 +5,17 @@ import net.minecraft.sounds.SoundEvent;
 import net.minecraft.sounds.SoundEvents;
 import net.minecraft.world.item.ArmorItem;
 import net.minecraft.world.item.ArmorMaterial;
+import net.minecraft.world.item.Items;
 import net.minecraft.world.item.crafting.Ingredient;
+import net.minecraft.world.level.ItemLike;
 
+import java.util.EnumMap;
 import java.util.function.Supplier;
 
 public enum ModArmorMaterials implements ArmorMaterial {
-    SAPPHIRE("sapphire", 33, new int[]{9, 18, 15, 12}, 25,
-            SoundEvents.AMETHYST_CLUSTER_HIT, 5f, 1f, () -> Ingredient.of(ModItems.SAPPHIRE.get())),;
+    SAPPHIRE("sapphire", 40, new int[]{9, 18, 24, 9}, 25,
+            SoundEvents.AMETHYST_CLUSTER_HIT, 6F, 1F, () -> Ingredient.of(ModItems.SAPPHIRE.get()));
+
 
     private final String name;
     private final int durabilityMultiplier;
