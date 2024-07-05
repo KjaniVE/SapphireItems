@@ -1,0 +1,23 @@
+{
+  "item.sapphireitems.sapphire": "Sapphire",
+  "item.sapphireitems.raw_sapphire": "Raw Sapphire",
+
+
+  "item.sapphireitems.sapphire_sword": "Sapphire Sword",
+  "item.sapphireitems.sapphire_pickaxe": "Sapphire Pickaxe",
+  "item.sapphireitems.sapphire_axe": "Sapphire Axe",
+  "item.sapphireitems.sapphire_shovel": "Sapphire Shovel",
+  "item.sapphireitems.sapphire_hoe": "Sapphire Hoe",
+
+  "item.sapphireitems.sapphire_helmet": "Sapphire Helmet",
+  "item.sapphireitems.sapphire_chestplate": "Sapphire Chestplate",
+  "item.sapphireitems.sapphire_leggings": "Sapphire Leggings",
+  "item.sapphireitems.sapphire_boots": "Sapphire Boots",
+
+  "block.sapphireitems.sapphire_block": "Block of Sapphire",
+
+  "block.sapphireitems.sapphire_ore": "Sapphire Ore",
+  "block.sapphireitems.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+
+  "creativetab.tutorial_tab": "Sapphire Tutorial Tab"
+}
