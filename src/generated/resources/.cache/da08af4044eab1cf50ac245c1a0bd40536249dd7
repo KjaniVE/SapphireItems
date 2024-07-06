@@ -1,4 +1,4 @@
-// 1.20.1	2024-07-05T19:51:40.525868777	Tags for minecraft:block mod id sapphireitems
+// 1.20.1	2024-07-06T11:13:40.061697649	Tags for minecraft:block mod id sapphireitems
 4838524f95e018138d34c0c327375b2031f1a9c5 data/forge/tags/blocks/needs_netherite_tool.json
 65ec704534c5c76955fb51d07c6560145e401de4 data/minecraft/tags/blocks/mineable/pickaxe.json
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/needs_diamond_tool.json
@@ -6,3 +6,4 @@
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/needs_stone_tool.json
 a893b357d10b3dee8ff8dec29ed332adeb8a0bb0 data/sapphireitems/tags/blocks/metal_detector_valuables.json
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/sapphireitems/tags/blocks/needs_sapphire_tool.json
+d5fb7221b016e3ff42268b15860a6f73e06d4f75 data/sapphireitems/tags/blocks/sapphire_ores.json
