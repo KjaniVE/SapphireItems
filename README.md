@@ -16,9 +16,10 @@ SapphireItems is a Minecraft mod that introduces a new material—Sapphire. This
 ## Installation
 
 1. **Download** the latest version of the mod from the [Releases](https://github.com/your-username/SapphireItems/releases) page.
-2. **Install** Minecraft Forge for the Minecraft version you are using.
-3. **Place** the downloaded mod file into the `mods` folder in your Minecraft directory.
-4. **Launch** Minecraft using the Forge profile.
+   or go to [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sapphire-items) and download it from there.
+3. **Install** Minecraft Forge for the Minecraft version you are using.
+4. **Place** the downloaded mod file into the `mods` folder in your Minecraft directory.
+5. **Launch** Minecraft using the Forge profile.
 
 ## Usage
 
