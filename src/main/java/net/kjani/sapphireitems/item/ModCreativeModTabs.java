@@ -44,7 +44,8 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.SAPPHIRE_LEGGINGS.get());
                         pOutput.accept(ModItems.SAPPHIRE_BOOTS.get());
 
-
+                        //Shields
+                        pOutput.accept(ModItems.SAPPHIRE_SHIELD.get());
                     })
                     .build());
 
