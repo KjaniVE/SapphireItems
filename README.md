@@ -25,22 +25,7 @@ SapphireItems is a Minecraft mod that introduces a new material—Sapphire. This
 
 - **Mining**: Sapphire ore can be found between Y-levels -64 and -32. It is more powerful than Netherite.
 - **Crafting**: Use Sapphire obtained from mining to craft tools and armor with superior stats.
-
-## Changelog
-
-### Initial Development - July 5, 2024
-
-#### Added
-
-• Sapphire ore types: deepslate and regular
-• Sapphire block
-• Sapphire tools
-• Sapphire armor
-
-## Contribution
-
-Contributions are welcome! Feel free to submit issues, fork the repository, and make pull requests.
-
+  
 ## License
 
 This project is licensed under the MIT License.
