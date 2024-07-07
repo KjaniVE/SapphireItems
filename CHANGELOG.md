@@ -1,5 +1,11 @@
 # Changelog
 
+## Version 1.0.3-1.20.1 - July 8, 2024
+
+### Added
+
+- Added Sapphire Shield to the game.
+
 ## Version 1.0.2-1.20.1 - July 7, 2024
 
 ## Added

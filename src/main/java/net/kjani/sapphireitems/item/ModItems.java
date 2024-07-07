@@ -30,6 +30,10 @@ public class ModItems {
     public static final RegistryObject<Item> SAPPHIRE_HOE = ITEMS.register("sapphire_hoe",
             () -> new HoeItem(ModToolTiers.SAPPHIRE, -15, 0, new Item.Properties().fireResistant().rarity(ModRarity.LEGENDARY)));
 
+    //Shields
+    public static final RegistryObject<Item> SAPPHIRE_SHIELD = ITEMS.register("sapphire_shield",
+            () -> new ShieldItem(new Item.Properties().fireResistant().rarity(ModRarity.LEGENDARY).durability(150000)));
+
 
     //Armor
     public static final RegistryObject<Item> SAPPHIRE_HELMET = ITEMS.register("sapphire_helmet",
