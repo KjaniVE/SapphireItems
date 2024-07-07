@@ -1,8 +1,9 @@
-// 1.20.1	2024-07-05T19:51:40.527021733	Recipes
+// 1.20.1	2024-07-07T18:58:48.808422937	Recipes
 bcb7d4ba650476f75800b9b39b0ea4f9d4b229d5 data/sapphireitems/advancements/recipes/combat/sapphire_boots.json
 c0eb3ec283c7e1c915b70a1c8ce77ee761740492 data/sapphireitems/advancements/recipes/combat/sapphire_chestplate.json
 95ea3f1cbd372d05fb62dd78efb6473e8b3747d6 data/sapphireitems/advancements/recipes/combat/sapphire_helmet.json
 a61c82e2e77e3711928f47fadb31f8d69ba8dc2e data/sapphireitems/advancements/recipes/combat/sapphire_leggings.json
+23621093839c3d7c04324e0fbd3decb86f4cfa85 data/sapphireitems/advancements/recipes/combat/sapphire_shield.json
 6154dc1973c021efa61a8ffb89ef157d8d9c7264 data/sapphireitems/advancements/recipes/misc/sapphire.json
 4c3bec6290207e90fc24d4f51b71162b7918c42e data/sapphireitems/advancements/recipes/misc/sapphire_block.json
 bac69783cee3880e24d68a87c324647009982a9e data/sapphireitems/advancements/recipes/misc/sapphire_from_blasting_deepslate_sapphire_ore.json
@@ -35,5 +36,6 @@ e22da2edfb904c239b788b96b411628dde3fea6b data/sapphireitems/recipes/sapphire_hel
 f22630060fad7acf3f5d2d22a832c4b6c16ffb6b data/sapphireitems/recipes/sapphire_hoe_alt.json
 1f2888d4a39a91e9e81b8c039ce9b7acb9b276c4 data/sapphireitems/recipes/sapphire_leggings.json
 000954bffddc28da1ffdd65263e8d6809480f009 data/sapphireitems/recipes/sapphire_pickaxe.json
+89ce9c978b80f5774befc79f1f74e4274ed373f8 data/sapphireitems/recipes/sapphire_shield.json
 baa5525acf347d5e914bb1881834c2ed9bff4cbe data/sapphireitems/recipes/sapphire_shovel.json
 1b6d2eee7dd02f43e7e265cff1e052d098c9448a data/sapphireitems/recipes/sapphire_sword.json
