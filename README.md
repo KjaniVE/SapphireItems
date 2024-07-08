@@ -4,14 +4,15 @@
 
 SapphireItems is a Minecraft mod that introduces a new material—Sapphire. This rare and powerful resource surpasses Netherite, providing players with a new tier of tools and armor. Dive into the depths of your world to discover Sapphire ore, craft formidable equipment, and enhance your gameplay experience.
 
+---
 ## Features
 
 ### Added
 
-• Sapphire ore types: deepslate and regular
-• Sapphire block
-• Sapphire tools (sword, pickaxe, axe, shovel, hoe)
-• Sapphire armor (helmet, chestplate, leggings, boots)
+- Sapphire ore types: deepslate and regular
+- Sapphire block
+- Sapphire tools (sword, pickaxe, axe, shovel, hoe)
+- Sapphire armor (helmet, chestplate, leggings, boots)
 
 ## Installation
 
