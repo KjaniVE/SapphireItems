@@ -15,6 +15,7 @@ public class ModTags {
         public static final TagKey<Block> METAL_DETECTOR_VALUABLES = tag("metal_detector_valuables");
         public static final TagKey<Block> NEEDS_SAPPHIRE_TOOL = tag("needs_sapphire_tool");
         public static final TagKey<Block> SAPPHIRE_ORES = tag("sapphire_ores");
+        public static final TagKey<Block> PAXEL_MINEABLE = tag("mineable/paxel");
 
 
         private static TagKey<Block> tag(String name) {

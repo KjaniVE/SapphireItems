@@ -50,6 +50,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         handHeldItem(ModItems.SAPPHIRE_AXE);
         handHeldItem(ModItems.SAPPHIRE_SHOVEL);
         handHeldItem(ModItems.SAPPHIRE_HOE);
+        handHeldItem(ModItems.SAPPHIRE_PAXEL);
 
         // Armor
         trimmedArmorItem(ModItems.SAPPHIRE_HELMET);

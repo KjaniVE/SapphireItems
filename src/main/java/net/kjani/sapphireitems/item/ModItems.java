@@ -2,6 +2,7 @@ package net.kjani.sapphireitems.item;
 
 import net.kjani.sapphireitems.SapphireItems;
 import net.kjani.sapphireitems.item.custom.ModArmorItem;
+import net.kjani.sapphireitems.item.custom.PaxelItem;
 import net.minecraft.world.item.*;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -29,6 +30,8 @@ public class ModItems {
             () -> new ShovelItem(ModToolTiers.SAPPHIRE, 0, 2, new Item.Properties().fireResistant().rarity(ModRarity.LEGENDARY)));
     public static final RegistryObject<Item> SAPPHIRE_HOE = ITEMS.register("sapphire_hoe",
             () -> new HoeItem(ModToolTiers.SAPPHIRE, -15, 0, new Item.Properties().fireResistant().rarity(ModRarity.LEGENDARY)));
+    public static final RegistryObject<Item> SAPPHIRE_PAXEL = ITEMS.register("sapphire_paxel",
+            () -> new PaxelItem(ModToolTiers.SAPPHIRE, 3, 2, new Item.Properties().fireResistant().rarity(ModRarity.LEGENDARY)));
 
     //Shields
     public static final RegistryObject<Item> SAPPHIRE_SHIELD = ITEMS.register("sapphire_shield",
