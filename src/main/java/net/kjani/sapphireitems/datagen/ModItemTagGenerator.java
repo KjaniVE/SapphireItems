@@ -2,6 +2,7 @@ package net.kjani.sapphireitems.datagen;
 
 import net.kjani.sapphireitems.SapphireItems;
 import net.kjani.sapphireitems.item.ModItems;
+import net.kjani.sapphireitems.util.ModTags;
 import net.minecraft.core.HolderLookup;
 import net.minecraft.data.PackOutput;
 import net.minecraft.data.tags.ItemTagsProvider;
