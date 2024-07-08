@@ -1,5 +1,12 @@
 # Changelog
 
+
+## Version 1.0.4-1.20.1 - July 9, 2024
+
+### Added
+
+- Added Sapphire Paxel to the game.
+
 ## Version 1.0.3-1.20.1 - July 8, 2024
 
 ### Added
